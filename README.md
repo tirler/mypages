@@ -10,7 +10,8 @@ Such models are starting to have an impact in the clinic. Alexander Anderson, a 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+And there's more. Mathematical models can also help researchers understand, and even prevent, tumour development. Larry Norton, an oncologist at the Memorial Sloan-Kettering centre, has devised a model of tumour growth based on nineteenth-century mathematics. The S-curve model showed that while tiny tumours barely grow at all, medium-sized tumours grow at a rapid pace, and large ones grow slowly. Norton and his colleagues hypothesized that the rate at which a tumour shrinks would also be proportional to its size, with large tumours shrinking slowly and small ones rapidly.
+
 
 ```markdown
 Syntax highlighted code block
@@ -33,6 +34,8 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
+
+The conventional view of chemotherapy dosing held that, because tumour growth was exponential, each treatment killed the same amount of tumour. Norton, however, used his theory to argue that giving the same total amount of chemotherapy over a shorter period of time should improve the cure rate. Because his model showed that young tumours have the fastest growth rate, he said, the less time they had to regrow between treatments, the better the cure rate would be. Norton's idea was vindicated in 2002, when a large breast-cancer trial showed that giving chemotherapy every two weeks instead of every three lowered the risk of disease recurrence by 26% over three years, even though the cumulative dose was the same.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tirler/mypages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
