@@ -40,5 +40,7 @@ The conventional view of chemotherapy dosing held that, because tumour growth wa
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tirler/mypages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+Norton makes the point that none of this would be possible without integrating biological growth models into treatment research. “The biological sciences have become anti-maths, and it's just not working. Researchers see lots and lots of facts, but they're not connecting them together,” he says. “It's like looking up at a starry sky and wondering how it worked. Only when Kepler and Newton came along did things fall into place.”
+
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
