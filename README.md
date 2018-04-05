@@ -12,25 +12,6 @@ Such models are starting to have an impact in the clinic. Alexander Anderson, a 
 
 And there's more. Mathematical models can also help researchers understand, and even prevent, tumour development. Larry Norton, an oncologist at the Memorial Sloan-Kettering centre, has devised a model of tumour growth based on nineteenth-century mathematics. The S-curve model showed that while tiny tumours barely grow at all, medium-sized tumours grow at a rapid pace, and large ones grow slowly. Norton and his colleagues hypothesized that the rate at which a tumour shrinks would also be proportional to its size, with large tumours shrinking slowly and small ones rapidly.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
