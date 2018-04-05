@@ -42,5 +42,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 Norton makes the point that none of this would be possible without integrating biological growth models into treatment research. “The biological sciences have become anti-maths, and it's just not working. Researchers see lots and lots of facts, but they're not connecting them together,” he says. “It's like looking up at a starry sky and wondering how it worked. Only when Kepler and Newton came along did things fall into place.”
 
+### Beating the system
+“The amount of understanding, knowledge and information we have at hand is huge, but it's too complicated to make sense of, in terms of what's going on in the system,” says Jasmin Fisher, a neuroimmunologist in the Programming Principles and Tools group at Microsoft Research in Cambridge, United Kingdom.
+With all this information, it's possible to miss the cancer forest for the cellular trees, says biophysicist James Glazier, director of the Biocomplexity Institute at Indiana University in Bloomington. Researchers have tended to focus on genes and proteins, but to understand and fight the disease, it must be viewed as a system, rather than merely as a set of cellular activities. According to Glazier, the recent focus on genetics and pathways in individual cells has caused many researchers to neglect the systemic view. “No amount of information about what happens inside a single cell can ever tell you what a tissue is going to do,” he says. “Much of the information and complexity of tissues and life is embedded in the way cells talk to each other and the extracellular environment.”
+
+
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
