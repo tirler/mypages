@@ -47,7 +47,7 @@ Person einen Qubit zu messen, würde sich der Zustand von beiden verändern. Die
 Verschlüsselung ist zum Beispiel einem chinesischen und einem österreichischen
 Forscher gelungen.
 
-  Wie baut man einen Quantencomputer?
+  ### Wie baut man einen Quantencomputer?
 
   Es gibt verschiedene Ansätze, einen Quantencomputer zu bauen. Ein
 weitverbreitetes Verfahren besteht darin, Qubits in winzigen Metallschlaufen zu
