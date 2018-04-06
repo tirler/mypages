@@ -1,16 +1,6 @@
----
-layout: post
-title: Computing
-published: true
-author: roman
-comments: false
-date: 2018-02-17 05:02:51
-tags: [ ]
-categories: [ ]
-permalink: /computing
----
 
-  Was ist eigentlich ein Quantencomputer?
+
+### Was ist eigentlich ein Quantencomputer?
 
 Saturday, February 17, 2018
  
@@ -27,7 +17,7 @@ mysteriösen Prinzipien der Quantenphysik. Sie sind aber nicht so leicht zu
 bauen. Was genau hat es mit diesen Wunderrechnern auf sich? Wir beantworten die
 wichtigsten Fragen.
 
-  Wie funktioniert ein Quantencomputer?
+  ## Wie funktioniert ein Quantencomputer?
 
   Ein Quantencomputer versteht und verarbeitet Informationen anders als ein
 normaler Computer. Dieser speichert Information in Form von Bits, die zwei
